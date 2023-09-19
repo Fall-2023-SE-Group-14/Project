@@ -1,7 +1,7 @@
 # Software Engineering  Project
 
 ## Part One - Scoring Previous Projects
-Please find the csv files with the scores for the five projects assigned to our team below:
+Please find the csv files with the scores for the five projects assigned to our team below:  
 D - [My Dollarbot](https://github.com/Fall-2023-SE-Group-14/Project/blob/main/proj1/Project%201%20(%20Team%2014%20)%20-%20Dollar%20Bot.csv)  
 z - [Item Stock Tracker](https://github.com/Fall-2023-SE-Group-14/Project/blob/main/proj1/Project%201%20(%20Team%2014%20)%20-%20Item%20Stock%20Tracker.csv)  
 r - [Application Tracking System](https://github.com/Fall-2023-SE-Group-14/Project/blob/main/proj1/Project%201%20(%20Team%2014%20)%20-%20Application%20Tracking%20System.csv)  
