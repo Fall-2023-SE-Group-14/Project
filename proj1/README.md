@@ -1,4 +1,4 @@
-#Project 1  
+# Project 1
 ## Part One - Scoring Previous Projects
 Please find the csv files with the scores for the five projects assigned to our team below.  
 D - [My Dollarbot](https://github.com/Fall-2023-SE-Group-14/Project/blob/main/proj1/Project%201%20(%20Team%2014%20)%20-%20Dollar%20Bot.csv)  
