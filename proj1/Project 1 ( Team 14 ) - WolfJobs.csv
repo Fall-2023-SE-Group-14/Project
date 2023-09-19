@@ -1,28 +1,28 @@
-Metric,Score,Evidence
+Metric,Score = 54,Evidence
 Video,3,https://www.youtube.com/watch?v=r8-E4-N6q10&ab_channel=HetThakkar
 Workload is spread over the whole team (one team member is often Xtimes more productive than the others,2,One contributor has signiicantly higher amount of commits
 Number of commits,2,317
-Number of commits: by different people,2,
+Number of commits: by different people,1,
 Issues reports: there are many,2,"Closed 19, Open 4"
 Issues are being closed,2,Closed 19
 DOI badge: exists,3,Exists
-"Docs: doco generated, format not ugly",3,Organized Readme file
+"Docs: doco generated, format not ugly",2,Organized Readme file
 Docs: what: point descriptions of each class/function (in isolation),2,
 "Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z",3,Mini tutorials showing each feature
 "Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",3,It shows each feature with a video and explains workflow
-"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",3,
-Use of version control tools,3,
+"Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",2,
+Use of version control tools,2,
 Use of style checkers,2,Link to eslint file exists
 Use of code formatters.,1,
-Use of syntax checkers.,3,Syntax checkers are being used in both backend and frontend repos
+Use of syntax checkers.,2,Syntax checkers are being used in both backend and frontend repos
 Use of code coverage,1,Code coverage at 35%
-Other automated analysis tools,2,"There isn't any automated build added in github workflows, only formatters are added"
+Other automated analysis tools,1,"There isn't any automated build added in github workflows, only formatters are added"
 Test cases exist,2,https://github.com/ashakhatri007/WolfJobsBackend/tree/main/test
 Test cases are routinely executed,1,Test cases exist but not automated.
 The files CONTRIBUTING.md lists coding standards and lots of tips on how to extend the system without screwing things up,3,https://github.com/ashakhatri007/WolfJobs/blob/master/CONTRIBUTING.md
 Issues are discussed before they are closed,1,
 Chat channel: exists,1,chat channel for the project is not present
-Test cases: a large proportion of the issues related to handling failing cases.,2,
+Test cases: a large proportion of the issues related to handling failing cases.,1,
 Evidence that the whole team is using the same tools: everyone can get to all tools and files,3,
 "Evidence that the whole team is using the same tools (e.g. config files in the repo, updated by lots of different people)",1,
 "Evidence that the whole team is using the same tools (e.g. tutor can ask anyone to share screen, they demonstrate the system running on their computer)",2,
