@@ -20,7 +20,7 @@ Docs: what: point descriptions of each class/function (in isolation),2,
 "Docs: how: for common use cases X,Y,Z mini-tutorials showing worked examples on how to do X,Y,Z",3,"https://youtu.be/aCjcT1CHAzU?t=65
 
 https://github.com/usmanwardag/dollar_bot/blob/main/docs/Updated_version.pdf"
-"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",3,"In the Readme file, there is a punch line and it also states added features which make it more interesting"
+"Docs: why: docs tell a story, motivate the whole thing, deliver a punchline that makes you want to rush out and use the thing",3,"In the Readme file, there is a punchline and it states added features which make it more interesting"
 "Docs: short video, animated, hosted on your repo. That convinces people why they want to work on your code.",3,
 Use of version control tools,3,
 Use of style checkers,,No config file
