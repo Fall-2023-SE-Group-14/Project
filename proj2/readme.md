@@ -25,7 +25,7 @@ Experience the joy of cooking with Recipe Recommender, and never wonder what to 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
 [![Made With](https://img.shields.io/badge/made%20with-javascript-gree)](https://www.javascript.com/)
 [![DOI](https://zenodo.org/badge/429944963.svg)](https://zenodo.org/badge/latestdoi/429944963)
-[![Issues](https://img.shields.io/github/issues/zahrashiraz97/Fall-2023-SE-Group-14/Project)](https://github.com/Fall-2023-SE-Group-14/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed)
+[![Issues](https://img.shields.io/github/issues/zahrashiraz97/Fall-2023-SE-Group-14/Project)](https://github.com/thosaniparth/Recipe_Recommender/issues)
 [![GitHub stars](https://badgen.net/github/stars/thosaniparth/Recipe_Recommender)](https://badgen.net/github/stars/thosaniparth/Recipe_Recommender)
 ![Github closes issues](https://img.shields.io/github/issues-closed-raw/thosaniparth/Recipe_Recommender)
 [![Build Status](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/coverage.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender)
