@@ -32,6 +32,10 @@ Experience the joy of cooking with Recipe Recommender, and never wonder what to 
 
 - [Node.js v14.7.6](https://nodejs.org/en/download/)
 - [NPM v6.14.15](https://nodejs.org/en/download/)
+  
+## API Spec document
+
+- https://fall-2023-se-group-14.github.io/Recipe_Recommender/
 
 ## Directory Structure
 
