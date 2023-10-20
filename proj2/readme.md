@@ -4,6 +4,9 @@
 
 Recipe Recommender is an innovative application that simplifies the process of meal planning by suggesting recipes based on the ingredients you have readily available. Cooking can be a delightful experience, but deciding what to prepare with the ingredients on hand can be a daunting task. Our software is designed to alleviate this culinary challenge by offering a wide range of delectable recipes you can create using the ingredients in your kitchen.
 
+## Video
+Please find the demonstration in this [YouTube video](https://www.youtube.com/watch?v=dcHxln0QEB4).
+
 ## Key Features
 
 - **Ingredient-Based Recommendations:** Input the ingredients you have, and Recipe Recommender will provide you with a selection of recipes that match your available items.
