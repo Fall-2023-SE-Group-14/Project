@@ -31,13 +31,10 @@ Experience the joy of cooking with Recipe Recommender, and never wonder what to 
 [![GitHub issues open](https://img.shields.io/github/issues/thosaniparth/Recipe_Recommender)](https://github.com/thosaniparth/Recipe_Recommender/issues)
 [![GitHub stars](https://badgen.net/github/stars/thosaniparth/Recipe_Recommender)](https://badgen.net/github/stars/thosaniparth/Recipe_Recommender)
 ![Github closes issues](https://img.shields.io/github/issues-closed-raw/thosaniparth/Recipe_Recommender)
-[![Build Status](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/coverage.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender)
 [![codecov](https://codecov.io/gh/thosaniparth/Recipe_Recommender/branch/master/graph/badge.svg?token=M48I2E3PLL)](https://codecov.io/gh/thosaniparth/Recipe_Recommender)
 [![Respost - Write comment to new Issue event](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/Respost.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/Respost.yml)
-[![Check the source code](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/codeFormatter.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/codeFormatter.yml)
 ![GitHub contributors](https://img.shields.io/github/contributors/thosaniparth/Recipe_Recommender)
 [![Close as a feature](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/close_as_a_feature.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/close_as_a_feature.yml)
-[![Code Formatter and Syntax Check](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/Code_Formatter_and_Syntax_Check.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/Code_Formatter_and_Syntax_Check.yml)
 
 ## Tech Stack
 
