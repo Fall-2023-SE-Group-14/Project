@@ -23,6 +23,18 @@ Recipe Recommender is an innovative application that simplifies the process of m
 Experience the joy of cooking with Recipe Recommender, and never wonder what to prepare for a meal again. Bon appétit!
 
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![License](https://img.shields.io/badge/License-MIT-blue.svg)](https://opensource.org/licenses/MIT)
+[![Made With](https://img.shields.io/badge/made%20with-javascript-gree)](https://www.javascript.com/)
+[![DOI](https://zenodo.org/badge/429944963.svg)](https://zenodo.org/badge/latestdoi/429944963)
+[![GitHub issues open](https://github.com/Fall-2023-SE-Group-14/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed)](https://github.com/Fall-2023-SE-Group-14/Recipe_Recommender/issues?q=is%3Aissue+is%3Aclosed)
+[![GitHub stars](https://badgen.net/github/stars/thosaniparth/Recipe_Recommender)](https://badgen.net/github/stars/thosaniparth/Recipe_Recommender)
+![Github closes issues](https://img.shields.io/github/issues-closed-raw/thosaniparth/Recipe_Recommender)
+[![Build Status](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/coverage.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender)
+[![codecov](https://codecov.io/gh/thosaniparth/Recipe_Recommender/branch/master/graph/badge.svg?token=M48I2E3PLL)](https://codecov.io/gh/thosaniparth/Recipe_Recommender)
+[![Respost - Write comment to new Issue event](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/Respost.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/Respost.yml)
+[![Check the source code](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/codeFormatter.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/codeFormatter.yml)
+![GitHub contributors](https://img.shields.io/github/contributors/thosaniparth/Recipe_Recommender)
+[![Close as a feature](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/close_as_a_feature.yml/badge.svg)](https://github.com/thosaniparth/Recipe_Recommender/actions/workflows/close_as_a_feature.yml)
 
 ## Tech Stack
 
