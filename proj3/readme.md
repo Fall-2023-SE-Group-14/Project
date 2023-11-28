@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./docs/dollar_bot.jpg" alt="Expense tracking made easy!" width="600">
+  <img src="./dollar_bot.jpg" alt="Expense tracking made easy!" width="600">
 </p>
 
 <div align="center">
