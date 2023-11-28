@@ -253,6 +253,6 @@ Please refer to the issue list available [here](https://github.com/Fall-2023-SE-
 
 ## Demo
 
-You can view the demo [here](https://youtu.be/EX9CTIBbOuc)
+You can view the demo [here](https://www.youtube.com/watch?v=EKWg8lA9Avs)
 
 </div>
